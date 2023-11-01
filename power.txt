@@ -1,0 +1,25 @@
+Comparing power sources:
+
+Petrol Power Plant:
+12 MW for 50L of petrol per 90s.
+2000 petrol/hr = 1600 oil/hr.
+
+Infrustructure needed:
+- 2/3 Oil Reformer (0.66 MW)
+- 1/3 Oil Well (0.66 MW)
+- 17% Water Pump (0.083 MW)
+
+NET POWER: 10.6 MW for 1600 oil/hr
+PER MW: 151 oil/hr
+
+
+Power Station with Heavy Oil Reactor:
+16 MW for 50L of heavy oil per 120s.
+1500 HOil/hr = 2500 oil/hr.
+
+Infrastructure needed:
+- 3/4 Oil Cracking Unit (1.14 MW)
+- 37% Oil Well (0.74 MW)
+
+NET POWER: 14.12 MW for 2500 oil/hr
+PER MW: 177 oil/hr and produces 10.62 sulfur/hr

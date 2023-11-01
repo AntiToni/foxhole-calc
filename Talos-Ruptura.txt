@@ -1,0 +1,38 @@
+3x Ruptura Cost:
+465 pcons
+30 amat3
+75 amat4
+
+5x Talos Upgrade Cost:
+50 amat1
+15 amat4
+
+5x Talos Upgrade Per Day:
+4167 Coal
+275 Components
+825 Salvage
+
+5x Falchion Per Day (No MPF Bonus):
+364 RMats
+EQUALS
+7,280 Components
+
+5x Falchion Per Day (With MPF Bonus):
+283.2 RMats
+EQUALS
+5,664 Components
+
+3x Ruptura Per Day:
+9,900 Components
+3,150 Salvage
+600 Sulfur
+
+5x Talos Per Day (Full MPF):
+4167 Coal
+5,939 Components
+825 Salvage
+
+5x Talos Per Day (No MPF):
+4167 Coal
+7,555 Components
+825 Salvage

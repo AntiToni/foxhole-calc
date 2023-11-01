@@ -1,0 +1,336 @@
+{"recipes": [
+    {
+        "inputs": [
+            {"name": "salvage", "amount": 10}
+        ],
+        "outputs": [
+            {"name": "cmat", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "salvage", "amount": 15},
+            {"name": "coke", "amount": 75}
+        ],
+        "outputs": [
+            {"name": "amat1", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "salvage", "amount": 15},
+            {"name": "petrol", "amount": 50}
+        ],
+        "outputs": [
+            {"name": "amat2", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "salvage", "amount": 15},
+            {"name": "petrol", "amount": 25}
+        ],
+        "outputs": [
+            {"name": "cmat", "amount": 3}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "salvage", "amount": 15},
+            {"name": "coke", "amount": 25}
+        ],
+        "outputs": [
+            {"name": "cmat", "amount": 3}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "salvage", "amount": 25}
+        ],
+        "outputs": [
+            {"name": "cmat", "amount": 1},
+            {"name": "sandbag", "amount": 5}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "salvage", "amount": 25}
+        ],
+        "outputs": [
+            {"name": "cmat", "amount": 1},
+            {"name": "bwire", "amount": 5}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "coal", "amount": 200}
+        ],
+        "outputs": [
+            {"name": "coke", "amount": 180}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "coal", "amount": 200}
+        ],
+        "outputs": [
+            {"name": "coke", "amount": 165},
+            {"name": "sulfur", "amount": 15}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "coal", "amount": 300},
+            {"name": "water", "amount": 50}
+        ],
+        "outputs": [
+            {"name": "oil", "amount": 50},
+            {"name": "concrete", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "coal", "amount": 300},
+            {"name": "water", "amount": 100}
+        ],
+        "outputs": [
+            {"name": "hoil", "amount": 60},
+            {"name": "coke", "amount": 260}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "cmat", "amount": 3},
+            {"name": "comp", "amount": 20}
+        ],
+        "outputs": [
+            {"name": "pcon", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "pcon", "amount": 3}
+        ],
+        "outputs": [
+            {"name": "pipe", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "pcon", "amount": 1},
+            {"name": "hoil", "amount": 66}
+        ],
+        "outputs": [
+            {"name": "amat4", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "cmat", "amount": 3},
+            {"name": "sulfur", "amount": 20}
+        ],
+        "outputs": [
+            {"name": "amat3", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "cmat", "amount": 3},
+            {"name": "comp", "amount": 55},
+            {"name": "hoil", "amount": 6}
+        ],
+        "outputs": [
+            {"name": "pcon", "amount": 3}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "cmat", "amount": 3},
+            {"name": "comp", "amount": 20}
+        ],
+        "outputs": [
+            {"name": "pcon", "amount": 1},
+            {"name": "mbeam", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "dcomp", "amount": 30}
+        ],
+        "outputs": [
+            {"name": "comp", "amount": 20}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "pcon", "amount": 3},
+            {"name": "coke", "amount": 200},
+            {"name": "sulfur", "amount": 65},
+            {"name": "hoil", "amount": 35}
+        ],
+        "outputs": [
+            {"name": "scon", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "pcon", "amount": 9},
+            {"name": "coke", "amount": 375},
+            {"name": "eoil", "amount": 90},
+            {"name": "water", "amount": 100}
+        ],
+        "outputs": [
+            {"name": "scon", "amount": 3}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "scon", "amount": 3},
+            {"name": "coke", "amount": 245},
+            {"name": "amat1", "amount": 10},
+            {"name": "amat2", "amount": 10}
+        ],
+        "outputs": [
+            {"name": "amat5", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "oil", "amount": 150}
+        ],
+        "outputs": [
+            {"name": "petrol", "amount": 150}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "oil", "amount": 120},
+            {"name": "water", "amount": 30}
+        ],
+        "outputs": [
+            {"name": "petrol", "amount": 150}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "oil", "amount": 150}
+        ],
+        "outputs": [
+            {"name": "hoil", "amount": 90}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "sulfur", "amount": 60},
+            {"name": "hoil", "amount": 30}
+        ],
+        "outputs": [
+            {"name": "eoil", "amount": 90}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 1},
+            {"name": "cmat", "amount": 1}
+        ],
+        "outputs": [
+            {"name": "flame", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 6},
+            {"name": "cmat", "amount": 1}
+        ],
+        "outputs": [
+            {"name": "a250", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 1},
+            {"name": "cmat", "amount": 2}
+        ],
+        "outputs": [
+            {"name": "herocket", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 1},
+            {"name": "cmat", "amount": 2}
+        ],
+        "outputs": [
+            {"name": "firerocket", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 2},
+            {"name": "cmat", "amount": 2}
+        ],
+        "outputs": [
+            {"name": "a75", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 2},
+            {"name": "cmat", "amount": 2}
+        ],
+        "outputs": [
+            {"name": "a945", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 6},
+            {"name": "cmat", "amount": 4}
+        ],
+        "outputs": [
+            {"name": "a300", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "emat", "amount": 3},
+            {"name": "cmat", "amount": 2}
+        ],
+        "outputs": [
+            {"name": "a120", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "hemat", "amount": 2},
+            {"name": "cmat", "amount": 3}
+        ],
+        "outputs": [
+            {"name": "a150", "amount": 1}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "water", "amount": 25}
+        ],
+        "outputs": [
+            {"name": "oil", "amount": 75}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "petrol", "amount": 6}
+        ],
+        "outputs": [
+            {"name": "dcomp", "amount": 9}
+        ]
+    },
+    {
+        "inputs": [
+            {"name": "cmat", "amount": 1}
+        ],
+        "outputs": [
+            {"name": "gsupp", "amount": 10}
+        ]
+    }
+]}

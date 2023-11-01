@@ -1,0 +1,11 @@
+FOR FULL RECIPE CALC:
+
+1. Input the wanted output (could be multiple maybe?)
+2. Show all recipes for that resource (if only one only show none dialogue)
+4. If user selects none, use that resource as a raw resource
+3. If recipe has side product, add to excess list (dict of every resource and how many excess we have of each)
+4. Go to step 2 for each input in the selected recipe
+
+Things to do:
+- Add multi-input support.
+- Fill in json file.

@@ -1,0 +1,77 @@
+2xBT per 24hrs:
+100 StCom p.d.
+60 AMat3 p.d.
+120 AMat4 p.d.
+70 AMat5 p.d.
+
+Equals:
+-4.2 StCom/hr
+-2.5 AMat3/hr
+-5 AMat4/hr
+-2.92 AMat5/hr
+
+For 3 AMat5/hr (1/6th of a factory cap):
+-9 StCom/hr
+-735 Coke/hr
+-30 AMat1/hr
+-30 AMat2/hr
+
+For 13.2 StCom/hr (1/10th(ish) of a factory cap):
+-40 PCon/hr
+-1650 Coke/hr
+-396L EOil/hr
+-440L Water/hr
+
+(Since the above 2 only use about 1/4th of factory cap, we can just use one engineering station building)
+
+For 30 AMat1/hr (half a factory capacity):
+-450 Scroop/hr
+-2250 Coke/hr
+
+For 30 AMat2/hr (half a factory capacity):
+-450 Scroop/hr
+-1500L Petrol/hr (extra 1500 if we want extra room to breathe)
+
+For 405 EOil/hr (1/4th factory cap):
+-135L HOil/hr
+-270 Sulfur/hr
+
+For 5 AMat4/hr (1/6th factory cap):
+-330L HOil/hr
+-5 PCon/hr
+
+For 2.5 AMat3/hr (1/12th factory cap):
+-50 Sulfur/hr
+-7.5 CMat/hr
+
+For 45 PCon/hr (1/4th factory cap):
+-90L HOil/hr
+-825 Comp/hr
+-45 CMat/hr
+
+(Since above 2 only use about 1/2 of a factory, it is advised to just use one factory for both. Additionally, a recycler factory can be made to lighten this factories PCon load. If more PCons are needed, then it may be wise to build a secong metalworks factory I think? Idk.a)
+
+For 54 CMat/hr (Rounded up to be 1/8th of a factory):
+-270 Scroop/hr
+-450L Petrol/hr
+
+For 4635 Coke/hr (Method 1):
+5150 Coal/hr
+
+For 4635 Coke/hr and 421 Sulfur/hr (Method 2):
+-5619 Coal/hr
+
+(Method 2 ensures we will never need to get sulfur from a field, however it is fairly inefficient. Method 1 requires 123,600 (25 Flatbeds) Coal per day, which is already a lot. Method 2 requires 134,856 (27 Flatbeds) Coal per day, which is 2 more flatbeds worth, and may be a bitch to get, however it saves getting 7,680 (1.5 flatbeds) worth of sulfur, and as such may be easier to organise.)
+
+Final Result (no excess, not including oil processing):
+440L Water/hr (automated)
+1,170 Scroop/hr
+1,950L Petrol/hr (automated)
+555L HOil/hr (automated)
+825 Comp/hr
+5619 Coal/hr
+
+2xBT Per Day Resource Requirements:
+28,080 Scroop
+19,800 Comp
+134,856 Coal

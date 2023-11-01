@@ -1,0 +1,16 @@
+1x Tempest Cannon Cost:
+285 scon
+95 amat3
+175 amat4
+
+1x Tempest Cannon Per Day (Low Coal):
+39,584 Coal
+18,884 Components
+6,575 Salvage
+7,600 Sulfur
+
+1x Tempest Cannon Per Day (Low Sulfur):
+43,182 Coal
+18,884 Components
+6,575 Salvage
+4,362 Sulfur
